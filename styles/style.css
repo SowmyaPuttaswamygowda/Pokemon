@@ -26,7 +26,7 @@ body {
     justify-content: center;
     padding: 40px;
     margin: 10px auto;
-    background-color: #a30822d3;
+    background-color:#a44b6c;
     justify-content: center;
 }
 
@@ -41,7 +41,7 @@ body {
     border-radius: 2px;
     text-align: center;
     border: none;
-
+    background-color: #a6aad7;
 }
 
 #btn {
@@ -49,7 +49,7 @@ body {
     font-size: 1.5rem;
     background-color: #118db0;
     border: none;
-    color: #ad4b5b;
+    color: #ed948f;
     cursor: pointer;
     border-radius: 2px;
 }
